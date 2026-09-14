@@ -1,0 +1,6 @@
+PySide6>=6.5
+requests>=2.28
+beautifulsoup4>=4.11
+openpyxl>=3.1
+python-docx>=1.1
+chinesecalendar>=1.11
